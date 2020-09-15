@@ -9,7 +9,7 @@ Below is a list of some of my projects which are publicly available.
 ## Cookieless Session Scanner
 > <https://github.com/danielthatcher/Cookieless-Session-Scanner>
 
-A small BurpSuite extensions which adds an active scanner check to test web servers for [ASP.NET Cookieless Sessions](https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/aa479315(v=msdn.10)). The extension also marks any cookiless sessions present in request paths as insertion points for Burp's scanner.
+A small BurpSuite extensions which adds an active scanner check to test web servers for [ASP.NET Cookieless Sessions](https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/aa479315(v=msdn.10)). The extension also marks any cookieless sessions present in request paths as insertion points for Burp's scanner.
 
 ## glyphy
 > <https://github.com/danielthatcher/glyphy>
