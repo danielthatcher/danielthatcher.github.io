@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obtaining XSS Using Moodle Features and Minor Bugs
-date: 2020-09-11
+date: 2019-04-9
 categories: xss disclosures
 vimeoId1: 329096637
 vimeoId2: 329098357
