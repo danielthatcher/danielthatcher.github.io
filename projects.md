@@ -6,6 +6,16 @@ layout: default
 # Projects
 Below is a list of some of my projects which are publicly available.
 
+## spydom
+> <https://github.com/danielthatcher/spydom>
+
+A scanner that automates Chrome headless to load web pages and extract information from the DOM, including `postmessage` and `hashchange` listeners and generated HTML. It also takes screenshots.
+
+## smuggles
+> <https://github.com/danielthatcher/smuggles>
+
+An HTTP request smuggling scanner designed to safely scan a large number of hosts. It includes a large number of tests, as well as features for scan resumption and generating of proof-of-concepts.
+
 ## Cookieless Session Scanner
 > <https://github.com/danielthatcher/Cookieless-Session-Scanner>
 
