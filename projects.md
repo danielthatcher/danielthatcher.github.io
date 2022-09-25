@@ -6,6 +6,11 @@ layout: default
 # Projects
 Below is a list of some of my projects which are publicly available.
 
+## junker
+> <https://github.com/intruder-io/junker>
+
+A CL.CL HTTP request smuggling scanner which utilises invalid values in the `Content-Length` header to identify headers which can be smuggled through to back-end servers. This was developed during the early stages of [my HTTP header smuggling research](https://www.intruder.io/research/practical-http-header-smuggling).
+
 ## spydom
 > <https://github.com/danielthatcher/spydom>
 
